@@ -1,0 +1,10 @@
+name: alphatwirl-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - root
+  - pip:
+    - alphatwirl
+    - qtwirl
