@@ -8,3 +8,4 @@ dependencies:
   - pip:
     - alphatwirl
     - qtwirl
+    - git+https://github.com/alphatwirl/scribblers
