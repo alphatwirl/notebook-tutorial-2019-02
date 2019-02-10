@@ -6,6 +6,6 @@ dependencies:
   - pandas
   - root
   - pip:
-    - alphatwirl
+    - alphatwirl>=0.21.0
     - qtwirl
     - git+https://github.com/alphatwirl/scribblers
